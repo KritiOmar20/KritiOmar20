@@ -14,11 +14,9 @@
 
 
 
-- 🔭 I’m currently working on [Book Store Project](https://github.com/TheOfficialSiud/Book-store.git)
+- 🔭 I’m currently working on [Blog_Application](https://github.com/KritiOmar/Blog_Application.git)
 
 - 🌱 I’m currently learning **full stack development on .net**
-
-- 👯 I’m looking to collaborate on [GetDeLost](https://github.com/TheOfficialSiud/GetDeLost-edit)
 
 - 💬 Ask me about **C++, React js, Problem Solving, SQL, .net**
 
