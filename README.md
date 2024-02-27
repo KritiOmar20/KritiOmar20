@@ -16,11 +16,11 @@
 
 - 🔭 I’m currently working on [Book Store Project](https://github.com/TheOfficialSiud/Book-store.git)
 
-- 🌱 I’m currently learning **full stack development on MERN**
+- 🌱 I’m currently learning **full stack development on .net**
 
 - 👯 I’m looking to collaborate on [GetDeLost](https://github.com/TheOfficialSiud/GetDeLost-edit)
 
-- 💬 Ask me about **C++, JAVA, Problem Solving, SQL, MERN**
+- 💬 Ask me about **C++, React js, Problem Solving, SQL, .net**
 
 - ⚡ Fun fact **I even comfortable with technologies that I hardly heard of!**
 <hr/>
@@ -38,21 +38,19 @@
 
 </p>
 <p align="left">
-    <a href="https://linkedin.com/in/sudhanshu-tripathi-143615222" target="blank"><img align="center" 
+    <a href="https://www.linkedin.com/in/kriti-omar-77555422b" target="blank"><img align="center" 
             src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" 
             height="30" width=" 140" /></a>
-    <a href="https://www.leetcode.com/officialsiud" target="_blank" rel="noreferrer"><img align="center"
+    <a href="https://leetcode.com/Kriti_Omar/" target="_blank" rel="noreferrer"><img align="center"
             src="https://img.shields.io/badge/LeetCode-222222?style=for-the-badge&logo=Leetcode&logoColor=white"
             alt="officialsiud" height="30" width="140" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/stmc21128" target="_blank" rel="noreferrer"><img align="center"
+<!--     <a href="https://auth.geeksforgeeks.org/user/stmc21128" target="_blank" rel="noreferrer"><img align="center"
             src="https://img.shields.io/badge/GFG-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
-            alt="stmc21128" height="30" width="100" /></a>
-    <a href="https://www.hackerrank.com/stmc21128" target="_blank" rel="noreferrer"><img align="center"
+            alt="stmc21128" height="30" width="100" /></a> -->
+    <a href="https://www.hackerrank.com/profile/kritiomarshagun1" target="_blank" rel="noreferrer"><img align="center"
             src="https://img.shields.io/badge/HackerRank-6fb107?style=for-the-badge&logo=hackerRank&logoColor=white"
             alt="stmc21128" height="30" width="150" /></a>
-    <a href="https://www.codechef.com/users/officialsiud" target="_blank" rel="noreferrer"><img align="center"
-            src="https://img.shields.io/badge/Codechef-964b00?style=for-the-badge&logo=codechef&logoColor=white" 
-            alt="officialsiud" height="30"width="140" /></a>
+   
 
 </p>
 
@@ -103,5 +101,5 @@
 
 <hr/>
 
-![Sudhanshu github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheOfficialSiud&bg_color=fcfcfc&color=15b9cb&line=15cb46&point=0700cc&area=true&hide_border=true)
+![Kriti github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheOfficialSiud&bg_color=fcfcfc&color=15b9cb&line=15cb46&point=0700cc&area=true&hide_border=true)
 </details>
