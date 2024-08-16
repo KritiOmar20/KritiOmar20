@@ -14,7 +14,7 @@
 
 
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/KritiOmar/My-Portfolio.git)
+- 🔭 I’m currently working on [My Portfolio](https://github.com/KritiOmar20/My-Portfolio)
 
 - 🌱 I’m currently learning **full stack development on .net**
 
