@@ -10,15 +10,15 @@
 <hr/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theofficialsiud&label=Profile%20views&color=0e75b6&style=flat" alt="theofficialsiud" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theofficialsiud&label=Profile%20views&color=0e75b6&style=flat" alt="kriti" /> </p>
 
 
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/KritiOmar20/My-Portfolio)
 
-- 🌱 I’m currently learning **full stack development on .net**
+- 🌱 I’m currently learning **full stack development on MERN Stack**
 
-- 💬 Ask me about **C++, React js, Problem Solving, SQL, .net**
+- 💬 Ask me about **C++, React js, Problem Solving, SQL**
 
 - ⚡ Fun fact **I even comfortable with technologies that I hardly heard of!**
 <hr/>
